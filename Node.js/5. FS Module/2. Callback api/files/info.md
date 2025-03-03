@@ -1,0 +1,1 @@
+# Hello Node.js this is part of fs module and MERN series.# this is a appended text
